@@ -1,0 +1,27 @@
+_repo: A-Bibliotheca-NacionalSuas-deficiencias-e-remedios-d-essas-deficiencias_34622
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cunha, Xavier da
+    alias: Da Cunha, Xavier
+    birthdate: 1840
+    deathdate: 1920
+    gutenberg_agent_id: '37128'
+    url: http://www.gutenberg.org/2009/agents/37128
+description: ''
+gutenberg_issued: '2010-12-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34622'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Z'
+- !lcsh 'Biblioteca Nacional de Lisboa'
+title: "A Bibliotheca Nacional de Lisboa\r\nSuas deficiencias e remedios d'essas deficiencias"
+url: http://www.gutenberg.org/ebooks/34622
